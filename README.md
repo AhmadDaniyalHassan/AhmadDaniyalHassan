@@ -1,5 +1,5 @@
 
-<h2 align="center">MERN-Stack Developer from Karachi, Pakistan</h2>
+<h2 align="center">Node, React Developer from Karachi, Pakistan</h2>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddaniyalhassan&show_icons=true&locale=en&layout=compact" alt="ahmaddaniyalhassan" /></p>
